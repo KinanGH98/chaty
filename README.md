@@ -14,6 +14,10 @@ A real-time chat application built with React and WebSocket.
 
 You can try out the chat app [here](https://kinangh98.github.io/react-apps/chat-app).
 
+## Server
+
+You can check the source code of the server behind this app here: [Chaty WebSocket Server](https://github.com/KinanGH98/chat-app-websocket-server)
+
 ## Technologies Used
 
 - React
