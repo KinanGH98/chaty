@@ -20,7 +20,10 @@ You can try out the chat app [here](https://kinangh98.github.io/react-apps/chat-
 - WebSocket
 - FontAwesome
 - Framer Motion
-    
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
+
 ## License
 This project is licensed under the MIT License.
 
