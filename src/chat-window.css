@@ -1,5 +1,5 @@
 ﻿.chatWindow {
-    padding: 60px 25px 0;
+    padding: 60px 15px 0;
     box-sizing: border-box;
     position: relative;
     max-width: 900px;
@@ -13,7 +13,7 @@
     width: inherit;
     height: 100%;
     /* Override the padding of the parent. */
-    margin-left: -25px;
+    margin-left: -15px;
     top: 0;
     z-index: -100000;
 }
@@ -21,7 +21,7 @@
 .connectionStatusIconParent {
     position: absolute;
     /* Parent padding * 2 */
-    right: 50px;
+    right: 30px;
     top: 25px;
 }
 
@@ -42,8 +42,9 @@
     position: fixed;
     bottom: 0;
     /* Override the padding of the parent. */
-    margin-left: -25px;
-    padding: 8px 25px;
+    margin-left: -15px;
+    /* Same horizontal inner padding as parent. */
+    padding: 8px 15px;
     background: radial-gradient(circle at 12.3% 19.3%, rgba(85, 88, 218, 0.74) 0%, rgba(95, 209, 249, 0.82) 100.2%);
     backdrop-filter: blur(7px);
     box-shadow: rgba(0, 0, 0, 0.43) 0 5px 12px;
